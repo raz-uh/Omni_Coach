@@ -1,0 +1,7 @@
+{
+  "name": "Omni-Coach Kinesthetic AI",
+  "description": "A high-performance real-time biomechanical analysis coach that provides elite-level feedback and safety alerts for physical movements.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
